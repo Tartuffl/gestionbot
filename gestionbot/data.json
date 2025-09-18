@@ -1,0 +1,20 @@
+{
+  "propre": 0,
+  "sale": 87394,
+  "marchandises": {
+    "Acétone": 39,
+    "Ammoniac": 41,
+    "Pile": 90,
+    "Contrat": 20,
+    "Pseudo": 112,
+    "Toluéne": 22,
+    "Mari supp": 412,
+    "Fleeca": 1,
+    "Chargeur": 2,
+    "Graine": 38
+  },
+  "status_message_ids": {
+    "banque": 1416200200401326202,
+    "marchandises": 1416200202292822178
+  }
+}
